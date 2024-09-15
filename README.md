@@ -31,3 +31,10 @@ I'm a passionate developer and informatics student at **Universitas Sebelas Mare
 - LinkedIn: [Hajid Lutfi Hidayanto](https://www.linkedin.com/in/hajid-lutfi-hidayanto)
 
 Let's collaborate and build something awesome together! 🎉
+
+<p align="left">
+<a href="https://github.com/LutfiHidayanto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LutfiHidayanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LutfiHidayanto&layout=compact&theme=algolia"/>
+</a>
+</p>
